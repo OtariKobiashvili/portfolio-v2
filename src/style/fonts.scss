@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'LibreBaskerville';
+  font-weight: bold;
+  src: local('LibreBaskerville-Bold'), url(../assets/fonts/Libre_Baskerville/LibreBaskerville-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'LibreBaskerville';
+  font-weight: normal;
+  src: local('LibreBaskerville'), url(../assets/fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-weight: lighter;
+  src: local('SourceSansPro'), url(../assets/fonts/Source_Sans_Pro/SourceSansPro-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-weight: normal;
+  src: local('SourceSansPro'), url(../assets/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'SourceSansPro';
+  font-weight: bold;
+  src: local('SourceSansPro'), url(../assets/fonts/Source_Sans_Pro/SourceSansPro-SemiBold.ttf) format('truetype');
+}
